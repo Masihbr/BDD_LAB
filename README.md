@@ -1,6 +1,7 @@
-![image](https://github.com/Masihbr/BDD_LAB/assets/56260232/3844ba88-afaf-422c-89da-580dd26797f6)# تبدیل نیازمندی‌ها به موارد آزمون با استفاده از روش ایجاد مبتنی بر رفتار (BDD)
+# تبدیل نیازمندی‌ها به موارد آزمون با استفاده از روش ایجاد مبتنی بر رفتار (BDD)
 # روال انجام آزمایش
-## سوال 1
+##سوال 1
+![image](https://github.com/Masihbr/BDD_LAB/assets/56260232/3844ba88-afaf-422c-89da-580dd26797f6)
 ![image](https://github.com/Masihbr/BDD_LAB/assets/56260232/8ab273e0-6149-412b-89f5-bc1cde91552e)
 ![image](https://github.com/Masihbr/BDD_LAB/assets/56260232/b384d0a0-c5c8-4bc3-8449-69eb9a336f69)
 ![image](https://github.com/Masihbr/BDD_LAB/assets/56260232/634292b2-ef67-491e-ab9d-d603c3acae45)
