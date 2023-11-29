@@ -7,5 +7,5 @@ public class Calculator {
         return a + b;
     }
 
-    public double fract(int a, int b) { return sqrt((double) a / b); }
+    public int fract(int a, int b) { return (int) sqrt((double) a / b); }
 }
