@@ -34,4 +34,15 @@ public class MyStepdefs {
     public void i_expect_the_result(int arg0) {
         Assert.assertEquals(arg0, result);
     }
+
+    @When("I calculate the square root of a divided by b")
+    public void iCalculateTheSquareRootOfDividedBy() {
+        result = calculator.fract(value1, value2);
+        System.out.print(result);
+    }
+
+    @Then("I expect the return {int}")
+    public void iExpectTheReturn(int arg0) {
+        Assert.assertEquals(arg0, result);
+    }
 }
