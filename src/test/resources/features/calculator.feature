@@ -16,3 +16,8 @@ Feature: Calculator
       | 1     | 12     | 13     |
       | -1    | 6      | 5  	|
       | 2     | 2      | 4	    |
+
+  Scenario: calculate square root of a divided by b
+    Given Two input values, 36 and 4
+    When I calculate the square root of a divided by b
+    Then I expect the return 3
